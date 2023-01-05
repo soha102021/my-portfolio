@@ -1,0 +1,92 @@
+* {
+    font-family: 'Open Sans',' sans-serif';
+    margin: 0%;
+}
+
+nav{
+    display: flex;
+    margin: 50px 200px;
+    justify-content: space-between;
+
+
+}
+nav li {
+    list-style: none;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+nav ul{
+display: flex;
+align-items: center;
+}
+.button{
+    background-color: coral;
+    height: 50px;
+    color: white;
+    border: 0;
+    font-weight: 600;
+    margin: 10px 5px;
+    font-size: 18px;
+    border-radius: 2px;
+}
+.tp{
+    color: coral;
+}
+.nav-title{
+    font-size: 65px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+
+.banner{
+    max-width: 1150px;
+    margin:0 200px;
+    display: flex;
+    align-items: center;
+}
+.title{
+    font-size: 25px;
+    margin-bottom: 15px;
+
+}
+.sub-title{
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+.header{
+    background-color: azure;
+}
+main{
+    max-width: 1150px;
+    margin: 0 auto;
+    }
+    .about{
+        margin-top: 100px;
+        background-color: azure;
+        border-radius: 10px;
+        padding: 100px;
+    }
+    
+    .s-title{
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .s-des{
+        color:dimgray;
+        margin-bottom: 20px;
+    }
+    .info-con{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+    .info .title{
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    .info .description{
+        margin-left: 10px;
+    }
