@@ -129,7 +129,10 @@ main{
 
     .skill-con{
         display: flex;
+        gap: 20px;
     }
     .resume-title{
         margin-bottom: 20px;
+        padding: 20px;
     }
+    
