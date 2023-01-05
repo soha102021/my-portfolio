@@ -90,3 +90,46 @@ main{
     .info .description{
         margin-left: 10px;
     }
+
+    /* wht*/
+    .section-wt{
+        
+        margin-top: 150px;
+        
+        
+    }
+    .sec-title{
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 120px;
+    text-align: center;
+    }
+   .skill-container {
+        display: flex;
+        margin: 15px;
+        gap: 25px;
+
+        
+    }
+    .skill{
+        box-shadow: 0px 6px 50px gray;
+    }
+    .skill-description{
+        color: black;
+        padding: 20px;
+    }
+    .skill-title{
+    margin-bottom: 10px;
+        font-size: 30px;
+        padding: 20px;
+        
+    }
+
+    /*summery*/
+
+    .skill-con{
+        display: flex;
+    }
+    .resume-title{
+        margin-bottom: 20px;
+    }
